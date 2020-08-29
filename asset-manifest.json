@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/arkdru23/PokemonApp-in-react/static/css/main.ec220eb0.chunk.css",
+    "main.js": "/arkdru23/PokemonApp-in-react/static/js/main.02947628.chunk.js",
+    "main.js.map": "/arkdru23/PokemonApp-in-react/static/js/main.02947628.chunk.js.map",
+    "runtime-main.js": "/arkdru23/PokemonApp-in-react/static/js/runtime-main.1e101ada.js",
+    "runtime-main.js.map": "/arkdru23/PokemonApp-in-react/static/js/runtime-main.1e101ada.js.map",
+    "static/js/2.c86fa8ec.chunk.js": "/arkdru23/PokemonApp-in-react/static/js/2.c86fa8ec.chunk.js",
+    "static/js/2.c86fa8ec.chunk.js.map": "/arkdru23/PokemonApp-in-react/static/js/2.c86fa8ec.chunk.js.map",
+    "index.html": "/arkdru23/PokemonApp-in-react/index.html",
+    "precache-manifest.114f61a7471487402eadc2db92b62bbe.js": "/arkdru23/PokemonApp-in-react/precache-manifest.114f61a7471487402eadc2db92b62bbe.js",
+    "service-worker.js": "/arkdru23/PokemonApp-in-react/service-worker.js",
+    "static/css/main.ec220eb0.chunk.css.map": "/arkdru23/PokemonApp-in-react/static/css/main.ec220eb0.chunk.css.map",
+    "static/js/2.c86fa8ec.chunk.js.LICENSE.txt": "/arkdru23/PokemonApp-in-react/static/js/2.c86fa8ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e101ada.js",
+    "static/js/2.c86fa8ec.chunk.js",
+    "static/css/main.ec220eb0.chunk.css",
+    "static/js/main.02947628.chunk.js"
+  ]
+}
